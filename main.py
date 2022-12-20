@@ -1,6 +1,6 @@
 from telebot.async_telebot import AsyncTeleBot
 
-TOKEN = '5820204529:AAHigN5yIQBGSgOG7NSM4l93sGppL5J2AR4'
+TOKEN = ''
 bot = AsyncTeleBot(TOKEN)
 
 from handlers import *
